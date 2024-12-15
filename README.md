@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Ranjith
-- im just recording my personal work and school work in here
-- 
+hello! i'm ranjith, a 3rd year undergrad in NUS
+pursuing double majors in mechanical engineering and data science
+specializing in robotics
